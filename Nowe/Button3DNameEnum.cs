@@ -1,0 +1,1 @@
+﻿public enum Button3DName { cube, sphere, capsule, cylinder }
